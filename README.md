@@ -1,12 +1,12 @@
 ## Hi, I am Heng
-## I am a Developer!
+## I am a Developer and here are the things about me!
 
 - 🔭 I’m currently working on Open source projects
 - 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with any experienced developer
-- 💬 Ask me about anythings
+- 🤔 I’m looking for help with any experienced developers
+- 💬 Ask me about anything
 - 👯 I’m looking to collaborate with other developer
-- ⚡ Fun fact: I love to play game!
+- ⚡ Fun fact: I love to play game and reading!
 
 ### Connect with me:
 
