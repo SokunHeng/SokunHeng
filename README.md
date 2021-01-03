@@ -2,11 +2,11 @@
 ## I am a Developer and here are the things about me!
 
 - 🔭 I’m currently working on Open source projects
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with any experienced developers
 - 💬 Ask me about anything
 - 👯 I’m looking to collaborate with other developer
-- ⚡ Fun fact: I love to play game and reading!
+- ⚡ Fun fact: I love to play video games, reading and coding!
 
 ### Connect with me:
 
